@@ -1,0 +1,18 @@
+.alert{
+    color: green;
+    font-size: 35px;
+}
+
+#heading{
+    color: green;
+    font-size: 40px;
+}
+
+h1{
+    color: red;
+}
+
+.box{
+    background-color: brown;
+    width: 100vw;
+}
